@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.balloon() 
+st.balloons() 
