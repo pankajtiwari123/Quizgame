@@ -10,7 +10,7 @@ st.write("B 7")
 st.write("C 10")
 st.write("D Error")
 
-ans = textinput("Enter your answer (A/B/C/D): ").upper()
+ans = text_input("Enter your answer (A/B/C/D): ").upper()
 
 if ans == "B":
     st.write(" Correct!")
@@ -26,7 +26,7 @@ st.write("B define")
 st.write("C def")
 st.write("D function")
 
-ans =textinput("Enter your answer (A/B/C/D): ").upper()
+ans =text_input("Enter your answer (A/B/C/D): ").upper()
 
 if ans == "C":
     st.write("Correct!")
@@ -42,7 +42,7 @@ st.write("B 3")
 st.write("C 4")
 st.write("D Error")
 
-ans = textinput("Enter your answer (A/B/C/D): ").upper()
+ans = text_input("Enter your answer (A/B/C/D): ").upper()
 
 if ans == "B":
     st.write(" Correct!")
