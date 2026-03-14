@@ -5,10 +5,10 @@ score = 0
 
 # Question 1
 st.write("\nQ1: What is the output of print(5 + 2)?")
-st.write("A) 52")
-st.writet("B) 7")
-st.write("C) 10")
-st.write("D) Error")
+st.write("A.  52")
+st.writet("B 7")
+st.write("C 10")
+st.write("D Error")
 
 ans = input("Enter your answer (A/B/C/D): ").upper()
 
@@ -21,10 +21,10 @@ st.write("-----------------------------------------------------")
 
 # Question 2
 st.write("\nQ2: Which keyword is used to define a function in Python?")
-v("A) func")
-st.write("B) define")
-st.write("C) def")
-st.write("D) function")
+st.write("A func")
+st.write("B define")
+st.write("C def")
+st.write("D function")
 
 ans = input("Enter your answer (A/B/C/D): ").upper()
 
@@ -37,10 +37,10 @@ st.write("----------------------------------------------------")
 
 # Question 3
 st.write("\nQ3: What is the output of print(len([1,2,3]))?")
-st.write("A) 2")
-st.write("B) 3")
-st.write("C) 4")
-st.write("D) Error")
+st.write("A 2")
+st.write("B 3")
+st.write("C 4")
+st.write("D Error")
 
 ans = input("Enter your answer (A/B/C/D): ").upper()
 
