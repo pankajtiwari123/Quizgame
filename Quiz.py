@@ -6,7 +6,7 @@ score = 0
 # Question 1
 st.write("\nQ1: What is the output of print(5 + 2)?")
 st.write("A.  52")
-st.writet("B 7")
+st.write("B 7")
 st.write("C 10")
 st.write("D Error")
 
